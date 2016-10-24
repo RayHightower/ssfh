@@ -2,5 +2,6 @@
 ---
 
 <p style="text-align: center;">
-This site is no longer in service.
+&nbsp;<br/>
+<b>This site is no longer in service.</b>
 </p>
